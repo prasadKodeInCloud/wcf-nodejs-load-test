@@ -1,7 +1,7 @@
 wcf vs nodejs load test
 =======================
 
-This source facilitates to compare the performance of 2 similar web services written in wcf and nodejs. Both services will iterate the factorial value of 20 in 1000000 at load testing. Bench-Rest is used for the load testing purpose.
+This source facilitates to compare the performance of 2 similar web services written in wcf and nodejs. Both services will iterate the factorial value of 20 in 1000000 times at load testing. Bench-Rest is used for the load testing purpose.
 
 ##To begin
 ---
