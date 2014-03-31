@@ -1,0 +1,21 @@
+{
+  "description": "A sample nodejs project created for nodejs load testing.",
+  "version": "0.0.1",
+  "author": {
+    "name": "Prasad Hewage",
+    "email": "prasad19sara@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prasadKodeInCloud/wcf-nodejs-load-test.git"
+  },
+  "engines": {
+    "node": ">=0.8"
+  },
+  "dependencies": {
+    "bench-rest": "~0.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "latest"
+  }
+}
