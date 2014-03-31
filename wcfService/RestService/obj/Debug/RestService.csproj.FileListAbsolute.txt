@@ -1,0 +1,15 @@
+E:\Tutorials\RestService\RestService\bin\RestService.dll
+E:\Tutorials\RestService\RestService\bin\RestService.pdb
+E:\Tutorials\RestService\RestService\obj\Debug\ResolveAssemblyReference.cache
+E:\Tutorials\RestService\RestService\obj\Debug\RestService.dll
+E:\Tutorials\RestService\RestService\obj\Debug\RestService.pdb
+D:\Tutorials\RestService\RestService\bin\RestService.dll
+D:\Tutorials\RestService\RestService\bin\RestService.pdb
+D:\Tutorials\RestService\RestService\obj\Debug\ResolveAssemblyReference.cache
+D:\Tutorials\RestService\RestService\obj\Debug\RestService.dll
+D:\Tutorials\RestService\RestService\obj\Debug\RestService.pdb
+D:\wcf-nodejs-load-test\wcfService\RestService\bin\RestService.dll
+D:\wcf-nodejs-load-test\wcfService\RestService\bin\RestService.pdb
+D:\wcf-nodejs-load-test\wcfService\RestService\obj\Debug\ResolveAssemblyReference.cache
+D:\wcf-nodejs-load-test\wcfService\RestService\obj\Debug\RestService.dll
+D:\wcf-nodejs-load-test\wcfService\RestService\obj\Debug\RestService.pdb
