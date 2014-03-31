@@ -24,9 +24,11 @@ This source facilitates to compare the performance of 2 similar web services wri
 ###Run nodejs service
 
 - Run the node service available in nodeService folder.
-  ```js
+
   node index.js
-    ```
+  
+  
+
 - To check the web service Type http://localhost:4730/loop/10 in url. If the service is up and running following result will be displayed as response.
 
   ```js
@@ -36,16 +38,20 @@ This source facilitates to compare the performance of 2 similar web services wri
     ```
  ###Do the load testing
  
- - open two command prompts and set the loadTest folder as the root folder.
- - In the first window run 
-     ```js
+- open two command prompts and set the loadTest folder as the root folder.
+- In the first window run 
+     
     node loadTestWCF.js
-    ```
+	
+	
+    
 to load test the wcf web service.
 - In the second window run 
-   ```js
+   
     node loadTestNode.js
-    ```
+	
+	
+    
 to load test the nodejs web service.
 - You can compare the performance of two services changing the limit and iterations properties in loadTestWCF.js file and loadTestNode.js file. 
 - Please refer to the bench-rest docs(https://github.com/jeffbski/bench-rest#stats-metrics-and-errorcount-benchmark-results) to analyze the output. 
